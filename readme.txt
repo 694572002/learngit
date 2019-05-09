@@ -3,4 +3,4 @@ Git is a free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git push origin master.
-Git creat a new branch is esay.
+Git creat a new branch is esay &quick.
